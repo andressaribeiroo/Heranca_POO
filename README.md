@@ -1,3 +1,3 @@
 ## Escopo
 
- <img src="./img/>
+ <img src="./diagrama.jpg">
